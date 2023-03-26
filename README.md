@@ -1,4 +1,4 @@
-# mbd_2d
+# mbd_2d_1
 Multibody Dynamics - 2d example problems
 
 Example 1 - Double Pendulum
