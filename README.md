@@ -13,4 +13,4 @@ Example 1 - Double Pendulum
             
             1e.  Amirouche's approach, q1, q2 measured from inertial x axis
             
-            1f,  Amirouche's approach, q1 from inertial x axis, q2 from pendulum 1 axis
+            1f.  Amirouche's approach, q1 from inertial x axis, q2 from pendulum 1 axis
