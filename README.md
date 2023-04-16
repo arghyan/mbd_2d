@@ -15,4 +15,9 @@ Example 1 - Double Pendulum
             
             1f.  Amirouche's approach, q1 from inertial x axis, q2 from pendulum 1 axis - dbp_mbd2
             
+            1g. Lagrange's equations, use of lambify to get numerical equations, use of odeint of scipy and plotting 
+                using matplotlib
+                
+             1h & 1i. The ode of 1g integrated using ode45 of octave
+            
             Youtube link for Amirouche approach - https://youtu.be/bxrilrDBvZw?list=PLboiG5KX48xiiuED1r5YcBWlwjZDw6fOL
