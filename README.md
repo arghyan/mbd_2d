@@ -21,3 +21,6 @@ Example 1 - Double Pendulum
              1h & 1i. The ode of 1g integrated using ode45 of octave - dydt_dbp.m and db_pend_rkutta.m
             
             Youtube link for Amirouche approach - https://youtu.be/bxrilrDBvZw?list=PLboiG5KX48xiiuED1r5YcBWlwjZDw6fOL
+            
+            1j & k amirouche_ex2.ipynb, amirouche_ex_kane.ipynb - Amirouche Book Page 338 Ex 7.7.2. For checking 
+            application of constraints
