@@ -30,9 +30,10 @@ Example 1 - Double Pendulum
             substitution of lambdas.
             
             2c Amirouche_ex_kane3.py integrates sympy equations. Results compared with amirouche_ex2.ipynb, which uses 
-            Lagrange's method with augmented constraints.
+            Lagrange's method with augmented constraints.Screenshots amirouche_ex2_ipynb_results.png &
+            amirouche_ex_kane3_py_results.png
             
             2d & e Amirouche_ex_kane1.py - same as Amirouche_ex_kane3.py but without integration
                    Amirouche_ex_kane2.py - Unconstrained Kane's equation from sympy and incorporaating constraints
                    using own code segment. 2d & e are compared after numerical evaluation of matrices. For
-                   COMPARISON purpose.
+                   UNDERSTANDING purpose and COMPARISON of mass matrix and forcing vector.
