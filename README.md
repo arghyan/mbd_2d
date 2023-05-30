@@ -22,5 +22,9 @@ Example 1 - Double Pendulum
             
             Youtube link for Amirouche approach - https://youtu.be/bxrilrDBvZw?list=PLboiG5KX48xiiuED1r5YcBWlwjZDw6fOL
             
-            1j & k amirouche_ex2.ipynb, amirouche_ex_kane.ipynb - Amirouche Book Page 338 Ex 7.7.2. For checking 
-            application of constraints
+ Example 2  -  Amirouche Book Page 338 Ex 7.7.2. For checking application of constraints
+            
+            2a & b amirouche_ex2.ipynb, amirouche_ex_kane.ipynb - Lagrange's method with numerical integration and Kane's
+            method respectively. Lagrange's method of sympy uses augmented constraint equations. Lagrange multipliers along with
+            generalised accelerations are computed. In Kane's method only equations are derived. Kane's method in sympy uses
+            substitution of lambdas.
