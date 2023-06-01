@@ -37,3 +37,6 @@ Example 1 - Double Pendulum
                    Amirouche_ex_kane2.py - Unconstrained Kane's equation from sympy and incorporaating constraints
                    using own code segment. 2d & e are compared after numerical evaluation of matrices. For
                    UNDERSTANDING purpose and COMPARISON of mass matrix and forcing vector.
+                   
+
+anim6.py - animation programme both for example 1 and example 2. Rotation and reflection of axes included
