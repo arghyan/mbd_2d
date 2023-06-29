@@ -34,9 +34,15 @@ Example 1 - Double Pendulum
             amirouche_ex_kane3_py_results.png
             
             2d & e Amirouche_ex_kane1.py - same as Amirouche_ex_kane3.py but without integration
-                   Amirouche_ex_kane2.py - Unconstrained Kane's equation from sympy and incorporaating constraints
+                   Amirouche_ex_kane2.py - Unconstrained Kane's equation from sympy and incorporating constraints
                    using own code segment. 2d & e are compared after numerical evaluation of matrices. For
                    UNDERSTANDING purpose and COMPARISON of mass matrix and forcing vector.
                    
 
 anim6.py - animation programme both for example 1 and example 2. Rotation and reflection of axes included
+
+ Example 3 - Amirouche Book Page 354 Ex 7.11.1. Specified motion
+
+             3a & 3b - amirouche_sp_motion.ipynb & amirouche_sp_motion.py
+             
+             3c - try8.py - Dyn equilibrium check using Newtonian mechanics
